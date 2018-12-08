@@ -1,0 +1,6 @@
+
+******************
+**  CROSS SUMS  **
+******************
+
+Invalid board size, Cross Sums terminating
